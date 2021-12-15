@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "61b950ff72cbd14a3487da51"
+  },
+  "subjects": [
+    {
+      "$oid": "61b9504472cbd14a3487da48"
+    },
+    {
+      "$oid": "61b950b372cbd14a3487da4d"
+    }
+  ],
+  "name": "International arts",
+  "type": "Detailed",
+  "modifiedBy": {
+    "$oid": "61b9501872cbd14a3487da44"
+  },
+  "createdAt": {
+    "$date": "2021-12-15T02:20:47.722Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-15T02:20:47.722Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b9526a331b6d36882fe656"
+  },
+  "subjects": [
+    {
+      "$oid": "61b951f3471aec411843cbd1"
+    }
+  ],
+  "name": "Arts",
+  "type": "Detailed",
+  "modifiedBy": {
+    "$oid": "61b9501872cbd14a3487da44"
+  },
+  "createdAt": {
+    "$date": "2021-12-15T02:26:50.561Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-15T02:26:50.561Z"
+  },
+  "__v": 0
+}]

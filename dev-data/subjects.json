@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "61b9504472cbd14a3487da48"
+  },
+  "name": "Master of Computer Application",
+  "stream": "IT",
+  "modifiedBy": {
+    "$oid": "61b9501872cbd14a3487da44"
+  },
+  "createdAt": {
+    "$date": "2021-12-15T02:17:40.470Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-15T02:17:40.471Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b950b372cbd14a3487da4d"
+  },
+  "name": "Basics of Engg",
+  "stream": "Science",
+  "modifiedBy": {
+    "$oid": "61b9501872cbd14a3487da44"
+  },
+  "createdAt": {
+    "$date": "2021-12-15T02:19:31.760Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-15T02:19:31.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b951e2471aec411843cbce"
+  },
+  "name": "Social Science",
+  "stream": "Arts",
+  "modifiedBy": {
+    "$oid": "61b9501872cbd14a3487da44"
+  },
+  "createdAt": {
+    "$date": "2021-12-15T02:24:34.722Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-15T02:24:34.722Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b951f3471aec411843cbd1"
+  },
+  "name": "English",
+  "stream": "Arts",
+  "modifiedBy": {
+    "$oid": "61b9501872cbd14a3487da44"
+  },
+  "createdAt": {
+    "$date": "2021-12-15T02:24:51.267Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-15T02:24:51.267Z"
+  },
+  "__v": 0
+}]
